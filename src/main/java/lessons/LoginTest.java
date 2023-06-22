@@ -1,4 +1,4 @@
-package chpater1;
+package lessons;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -10,5 +10,7 @@ public class LoginTest {
 		driver.manage().window().maximize();
 		String email = "ponsta360v6@gmail.com";
 		String password = "Pass123!";
+		
+		driver.quit();
 	}
 }
