@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-22T21:30:46Z" name="Default suite" finished-at="2023-06-22T21:30:56Z" duration-ms="9411">
+  <suite started-at="2023-06-23T16:42:51Z" name="Default suite" finished-at="2023-06-23T16:43:00Z" duration-ms="9275">
     <groups>
     </groups>
-    <test started-at="2023-06-22T21:30:46Z" name="Default test" finished-at="2023-06-22T21:30:56Z" duration-ms="9411">
+    <test started-at="2023-06-23T16:42:51Z" name="Default test" finished-at="2023-06-23T16:43:00Z" duration-ms="9275">
       <class name="test.Test1">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.Test1@3f57bcad]" started-at="2023-06-22T21:30:46Z" name="launchBrowser" finished-at="2023-06-22T21:30:51Z" duration-ms="5007" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.Test1@3688eb5b]" started-at="2023-06-23T16:42:51Z" name="launchBrowser" finished-at="2023-06-23T16:42:56Z" duration-ms="4955" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="login()[pri:0, instance:test.Test1@3f57bcad]" started-at="2023-06-22T21:30:51Z" name="login" finished-at="2023-06-22T21:30:55Z" duration-ms="4209" status="PASS">
+        <test-method signature="login()[pri:0, instance:test.Test1@3688eb5b]" started-at="2023-06-23T16:42:56Z" name="login" finished-at="2023-06-23T16:43:00Z" duration-ms="4072" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.Test1@3f57bcad]" started-at="2023-06-22T21:30:55Z" name="closeBrowser" finished-at="2023-06-22T21:30:56Z" duration-ms="175" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.Test1@3688eb5b]" started-at="2023-06-23T16:43:00Z" name="closeBrowser" finished-at="2023-06-23T16:43:00Z" duration-ms="227" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

@@ -47,6 +47,7 @@ public class LoginPage extends LetCodeBase{
 //		this.loginBtn.click();
 //		String text = "sign in";
 //		driver.findElement(By.xpath("//button[text()='"+text+"]")).click();
+		
 //		driver.findElement(By.xpath("//button[text()='LOGIN']")).click();
 	}
 	
